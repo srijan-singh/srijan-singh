@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently pursuing my graduation in computer science engineering.
+- 🌱 I’m currently learning web development and app development.
+- 👯 I’m looking to collaborate on machine learing.
+- 💬 Ask me about programming, movies, music and art.
+- 📫 How to reach me: https://www.instagram.com/srijan.11/
+
 <!--
 **srijan-singh/srijan-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
