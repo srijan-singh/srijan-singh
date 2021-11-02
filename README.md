@@ -3,6 +3,7 @@
 - 🔭 I’m currently pursuing my graduation in computer science engineering.
 - 🌱 I’m currently learning web development and app development.
 - 💬 Ask me about programming, movies and music.
+- ⚡ [My Developer Story](https://stackoverflow.com/story/srijanverse)
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/srijanverse/) / [Instagram](https://www.instagram.com/srijan.11/)
 
 <!--
