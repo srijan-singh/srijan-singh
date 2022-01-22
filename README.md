@@ -1,5 +1,9 @@
 ### Hi there, I'm Srijan Singh 👋 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=srijan-singh)
+
+I'm a student developer and pursuing a degree in computer science engineering and I like working on projects that adds value in user's life.
+
 <a href="https://www.linkedin.com/in/srijanverse/">
 <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -15,15 +19,6 @@
 <a href="https://stackoverflow.com/story/srijanverse">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
-
-<br>
-<br>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=srijan-singh)
-
-
-
-I'm a student developer and pursuing a degree in computer science engineering and I like working on projects that adds value in user's life.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
