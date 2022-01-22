@@ -25,7 +25,7 @@ I'm a student developer and pursuing a degree in computer science engineering an
 - [My first contribution to open source!](https://dev.to/srijansingh/my-first-contribution-to-open-source-4e28)
 <!-- BLOG-POST-LIST:END -->
 
-## Stuffs
+## About
 
 - 📫 I'm conducting labs on python programming at my university for undergraduate students in 3rd semester.
 - 🌱 I’m currently in 6th Semester and pursuing my bachelors in computer science engineering.
