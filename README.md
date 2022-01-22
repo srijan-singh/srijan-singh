@@ -27,9 +27,9 @@ I'm a student developer and pursuing a degree in computer science engineering an
 
 ## Stuffs
 
-- 🔭 I’m currently pursuing my graduation in computer science engineering.
-- 🌱 I’m currently learning web development and app development.
-- 💬 Ask me about programming, movies and music.
+- 🔭 I’m currently Teaching Assistant at my university and pursuing my graduation in computer science engineering.
+- 🌱 I’m open for internship opportunities in Software Engineering.
+- 💬 Ask me about data structures, algorithms, cryptography, distributed systems and machine learning.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-singh&show_icons=true&theme=github_dark&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-singh&exclude_repo=srijan-singh.github.io,face-api-internship,crypto-algo,notebook-cse,Hacktoberfest-2021-Data-Structures-and-Algorithms,make-pull-request,movie,responsive-app,login,portfolio,web,webpage,teachablemachine-community,deep-learning,machine-learning&layout=compact&theme=github_dark&hide_border=true)
