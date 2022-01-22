@@ -27,7 +27,7 @@ I'm a student developer and pursuing a degree in computer science engineering an
 
 ## Stuffs
 
-- 🔭 I’m currently Teaching Assistant at my university and pursuing my graduation in computer science engineering.
+- 🔭 I’m currently Teaching Assistant at my university where I'm conducting labs on Python programming for undergraduate students in third semester.
 - 🌱 I’m open for internship opportunities in Software Engineering.
 - 💬 Ask me about data structures, algorithms, cryptography, distributed systems and machine learning.
 
