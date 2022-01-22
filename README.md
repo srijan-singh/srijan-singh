@@ -1,6 +1,27 @@
-### Hi there, I'm Srijan Singh 👋
+### Hi there, I'm Srijan Singh 👋 
+
+<a href="https://www.linkedin.com/in/srijanverse/">
+<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href ="https://www.hackerrank.com/srijanverse?hr_r=1">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/d74803f0-043c-45e3-80a0-b9ddb10d2925">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+</a>
+
+<a href="https://stackoverflow.com/story/srijanverse">
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
+
+<br>
+<br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=srijan-singh)
+
+
 
 I'm a student developer and pursuing a degree in computer science engineering and I like working on projects that adds value in user's life.
 
@@ -14,8 +35,6 @@ I'm a student developer and pursuing a degree in computer science engineering an
 - 🔭 I’m currently pursuing my graduation in computer science engineering.
 - 🌱 I’m currently learning web development and app development.
 - 💬 Ask me about programming, movies and music.
-- ⚡ [My Developer Story](https://stackoverflow.com/story/srijanverse)
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/srijanverse/) / [Instagram](https://www.instagram.com/srijan.11/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-singh&show_icons=true&theme=github_dark&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-singh&exclude_repo=srijan-singh.github.io,face-api-internship,crypto-algo,notebook-cse,Hacktoberfest-2021-Data-Structures-and-Algorithms,make-pull-request,movie,responsive-app,login,portfolio,web,webpage,teachablemachine-community,deep-learning,machine-learning&layout=compact&theme=github_dark&hide_border=true)
@@ -24,6 +43,8 @@ I'm a student developer and pursuing a degree in computer science engineering an
 **srijan-singh/srijan-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+#TODO link -> https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
