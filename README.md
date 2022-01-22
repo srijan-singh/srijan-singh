@@ -10,7 +10,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [My first contribution to open source!](https://dev.to/srijansingh/my-first-contribution-to-open-source-4e28)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
