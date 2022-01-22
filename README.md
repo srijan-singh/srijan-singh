@@ -27,8 +27,9 @@ I'm a student developer and pursuing a degree in computer science engineering an
 
 ## Stuffs
 
-- 🔭 I’m currently Teaching Assistant at my university where I'm conducting labs on Python programming for undergraduate students in third semester.
-- 🌱 I’m open for internship opportunities in Software Engineering.
+- 📫 I'm conducting labs on python programming at my university for undergraduate students in 3rd semester.
+- 🌱 I’m currently in 6th Semester and pursuing my bachelors in computer science engineering.
+- 🔭 I’m open for internship opportunities in Software Engineering.
 - 💬 Ask me about data structures, algorithms, cryptography, distributed systems and machine learning.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-singh&show_icons=true&theme=github_dark&hide_border=true) 
