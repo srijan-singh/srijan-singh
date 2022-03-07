@@ -16,9 +16,6 @@ I'm a student developer and I like working on projects that adds value in user's
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </a>
 
-<a href="https://stackoverflow.com/story/srijanverse">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
