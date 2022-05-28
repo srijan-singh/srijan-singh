@@ -30,7 +30,7 @@ I'm a student developer and I like working on projects that adds value in user's
 - 💬 Ask me about data structures, algorithms, cryptography, distributed systems and machine learning.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-singh&show_icons=true&theme=github_dark&hide_border=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-singh&exclude_repo=srijan-singh.github.io,face-api-internship,crypto-algo,notebook-cse,Hacktoberfest-2021-Data-Structures-and-Algorithms,make-pull-request,AI,movie,responsive-app,login,portfolio,web,webpage,teachablemachine-community,deep-learning,machine-learning&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-singh&exclude_repo=srijan-singh.github.io,face-api-internship,crypto-algo,notebook-cse,Hacktoberfest-2021-Data-Structures-and-Algorithms,make-pull-request,AI,movie,responsive-app,login,portfolio,web,webpage,teachablemachine-community,deep-learning,machine-learning,The-Sparks-Foundation-Internship&layout=compact&theme=github_dark&hide_border=true)
 
 <!--
 **srijan-singh/srijan-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
