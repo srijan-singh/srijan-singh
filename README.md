@@ -34,7 +34,7 @@ I'm a student developer and I like working on projects that adds value in user's
 
 ## Support
 
-- [Buy Me Coffee}(https://www.buymeacoffee.com/srijansingh)
+- [Buy Me Coffee](https://www.buymeacoffee.com/srijansingh)
 
 <!--
 **srijan-singh/srijan-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
