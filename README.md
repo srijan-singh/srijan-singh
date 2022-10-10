@@ -1,5 +1,9 @@
 ### Hi there, I'm Srijan Singh 👋 
 
+[comment]: <> (************** Badges Link ****************)
+[comment]: <> (https://github.com/Ileriayo/markdown-badges)
+[comment]: <> (************** Badges Link ****************)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=srijan-singh)
 
 I'm a student developer and I like working on projects that adds value in user's life.
@@ -10,6 +14,10 @@ I'm a student developer and I like working on projects that adds value in user's
 
 <a href ="https://www.hackerrank.com/srijanverse?hr_r=1">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+<a href ="https://www.hackerearth.com/@srijan156">
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
 </a>
 
 <a href="https://www.cloudskillsboost.google/public_profiles/d74803f0-043c-45e3-80a0-b9ddb10d2925">
