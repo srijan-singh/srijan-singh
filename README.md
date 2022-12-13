@@ -32,7 +32,7 @@ I'm a student developer and I like working on projects that adds value in user's
 
 ## About
 
-- 🌱 I’m currently in 7th Semester and pursuing my bachelors in computer science engineering.
+- 🌱 I’m currently in 8th Semester and pursuing my bachelors in computer science engineering.
 - 📫 I've conducted labs on [python](https://github.com/srijan-singh/learn-python) & [algorithms](https://github.com/srijan-singh/learn_algo) at my university for undergraduates in 3rd and 4th semester.
 - 🔭 I’m open for internship opportunities in Software Engineering.
 - 💬 Ask me about data structures, algorithms, cryptography, distributed systems and machine learning.
