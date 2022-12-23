@@ -32,10 +32,7 @@ I'm a student developer and I like working on projects that adds value in user's
 
 ## About
 
-- 🌱 I’m currently in 8th Semester and pursuing my bachelors in computer science engineering.
-- 📫 I've conducted labs on [python](https://github.com/srijan-singh/learn-python) & [algorithms](https://github.com/srijan-singh/learn_algo) at my university for undergraduates in 3rd and 4th semester.
-- 🔭 I’m open for internship opportunities in Software Engineering.
-- 💬 Ask me about data structures, algorithms, cryptography, distributed systems and machine learning.
+*I am a final year Computer Science Engineer with a strong foundation in computer science principles and a passion for problem-solving. I have gained practical experience through internships and academic projects, and I am eager to apply my skills to real-world challenges. I am a motivated and detail-oriented individual with strong teamwork and communication skills. I am excited about the opportunity to join a dynamic organization where I can continue to grow and develop my skills as a computer science professional.*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-singh&show_icons=true&theme=github_dark&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-singh&exclude_repo=srijan-singh.github.io,face-api-internship,crypto-algo,notebook-cse,Hacktoberfest-2021-Data-Structures-and-Algorithms,make-pull-request,AI,movie,responsive-app,login,portfolio,web,webpage,teachablemachine-community,deep-learning,machine-learning,The-Sparks-Foundation-Internship&layout=compact&theme=github_dark&hide_border=true)
