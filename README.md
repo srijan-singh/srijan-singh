@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=srijan-singh)
 
-I'm a student developer and I like working on projects that adds value in user's life.
+Computer Science Wizard in Training Seeking Apprenticeship Opportunities.
 
 <a href="https://www.linkedin.com/in/srijanverse/">
 <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
