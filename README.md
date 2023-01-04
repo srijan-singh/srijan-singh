@@ -32,9 +32,9 @@
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
 </a>
 
-<a href="https://stackoverflow.com/users/13773320/srijan-singh">
+<!--a href="https://stackoverflow.com/users/13773320/srijan-singh">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> 
-</a>
+</a-->
 
 
 # Blog posts
