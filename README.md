@@ -45,7 +45,13 @@
 
 ## About
 
-*I am a final year Computer Science Engineer with a strong foundation in computer science principles and a passion for problem-solving. I have gained practical experience through internships and academic projects, and I am eager to apply my skills to real-world challenges. I am a motivated and detail-oriented individual with strong teamwork and communication skills. I am excited about the opportunity to join a dynamic organization where I can continue to grow and develop my skills as a computer science professional.*
+*I have a passion for software development 💻, cloud computing ☁️, and artificial intelligence 🧠 technologies. I have developed several projects, including a facial recognition API 👤, a bus booking system 🚌, and a privacy extension 🔒 for Web WhatsApp.*
+
+*I am always eager to learn new skills 📚 and explore new challenges 🚀. I have earned certifications in application development from IBM and Azure fundamentals from Microsoft 🏅. I also hold a copyright certificate 📜 from the government of India for my facial recognition API.*
+
+*In addition to my technical skills, I can speak multiple languages 🌐, including English and Hindi at a fluent level and French at a basic level. I believe in giving back to the community and volunteer at Hacktoberfest 🎃 and National Service Scheme 💪.*
+
+*If you’re looking for a dedicated, creative, and innovative developer, feel free to connect with me 🤝. Let’s create amazing experiences together! 🎉*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-singh&show_icons=true&theme=github_dark&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-singh&exclude_repo=srijan-singh.github.io,face-api-internship,crypto-algo,notebook-cse,Hacktoberfest-2021-Data-Structures-and-Algorithms,Face-Detect,face-recognition,make-pull-request,AI,movie,responsive-app,login,portfolio,web,webpage,teachablemachine-community,deep-learning,machine-learning,The-Sparks-Foundation-Internship&layout=compact&theme=github_dark&hide_border=true)
