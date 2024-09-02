@@ -45,11 +45,11 @@
 
 ## About
 
-*I have a passion for software development 💻, cloud computing ☁️, and artificial intelligence 🧠 technologies. I have developed several projects, including a facial recognition API 👤, a bus booking system 🚌, and a privacy extension 🔒 for Web WhatsApp.*
+*I am a Software Developer with a strong focus on backend development, currently working at IBM as part of the Data Lineage team within the IBM Knowledge Catalog (IKC) and Manta. My job? I make sure that your data knows exactly where it’s been, where it’s going, and that it doesn’t get lost along the way—kind of like a GPS for your data, but with fewer wrong turns. 🗺️📊*
 
-*I am always eager to learn new skills 📚 and explore new challenges 🚀. I have earned certifications in application development from IBM and Azure fundamentals from Microsoft 🏅. I also hold a copyright certificate 📜 from the government of India for my facial recognition API.*
+*I spend my days wrangling technologies like Neo4j for graph databases and wielding Spring Boot like a coding ninja 🥷 to build scalable and efficient applications. My work ensures that data governance practices are upheld because even data needs to follow the rules, right? 📜👨‍💻*
 
-*In addition to my technical skills, I can speak multiple languages 🌐, including English and Hindi at a fluent level and French at a basic level. I believe in giving back to the community and volunteer at Hacktoberfest 🎃 and National Service Scheme 💪.*
+*When I’m not tracking down rogue data, I’m knee-deep in containerization and orchestration with Docker, OpenShift, and Kubernetes 🐳🚀. And let’s not forget RabbitMQ—because sometimes, even data needs to hop around quickly and efficiently. 🐰📡*
 
 *If you’re looking for a dedicated, creative, and innovative developer, feel free to connect with me 🤝. Let’s create amazing experiences together! 🎉*
 
