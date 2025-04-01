@@ -6,8 +6,6 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=srijan-singh)
 
-### *Computer Science Wizard in Training Seeking Apprenticeship Opportunities.*
-
 <a href="https://www.linkedin.com/in/srijan-cse/">
 <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -36,13 +34,6 @@
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> 
 </a-->
 
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [I Created a Microsoft Edge Extension to Hide Chat on Whatsapp](https://dev.to/srijansingh/i-created-a-microsoft-edge-extension-to-hide-chat-on-whatsapp-431j)
-- [My first contribution to open source!](https://dev.to/srijansingh/my-first-contribution-to-open-source-4e28)
-<!-- BLOG-POST-LIST:END -->
-
 ## About
 
 *I am a Software Developer with a strong focus on backend development, currently working at IBM as part of the Data Lineage team within the IBM Knowledge Catalog (IKC) and Manta. My job? I make sure that your data knows exactly where it’s been, where it’s going, and that it doesn’t get lost along the way—kind of like a GPS for your data, but with fewer wrong turns. 🗺️📊*
@@ -55,6 +46,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-singh&show_icons=true&theme=github_dark&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-singh&exclude_repo=srijan-singh.github.io,face-api-internship,crypto-algo,notebook-cse,Hacktoberfest-2021-Data-Structures-and-Algorithms,Face-Detect,face-recognition,make-pull-request,AI,movie,responsive-app,login,portfolio,web,webpage,teachablemachine-community,deep-learning,machine-learning,The-Sparks-Foundation-Internship&layout=compact&theme=github_dark&hide_border=true)
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [I Created a Microsoft Edge Extension to Hide Chat on Whatsapp](https://dev.to/srijansingh/i-created-a-microsoft-edge-extension-to-hide-chat-on-whatsapp-431j)
+- [My first contribution to open source!](https://dev.to/srijansingh/my-first-contribution-to-open-source-4e28)
+<!-- BLOG-POST-LIST:END -->
 
 ## Support
 
