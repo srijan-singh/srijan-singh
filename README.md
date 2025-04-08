@@ -36,13 +36,11 @@
 
 ## About
 
-*I am a Software Developer with a strong focus on backend development, currently working at IBM as part of the Data Lineage team within the IBM Knowledge Catalog (IKC) and Manta. My job? I make sure that your data knows exactly where it’s been, where it’s going, and that it doesn’t get lost along the way—kind of like a GPS for your data, but with fewer wrong turns. 🗺️📊*
+*I’m a Software Developer working at IBM on the Data Lineage team (aka making sure data doesn’t get lost or confused about its past 😄). Think of it like building a GPS system for data—so it always knows where it came from, where it’s headed, and follows the rules along the way 🗺️📊.*
 
-*I spend my days wrangling technologies like Neo4j for graph databases and wielding Spring Boot like a coding ninja 🥷 to build scalable and efficient applications. My work ensures that data governance practices are upheld because even data needs to follow the rules, right? 📜👨‍💻*
+*Most of my time goes into backend development using Spring Boot and Neo4j, building scalable systems that help keep data governance in check. I also dabble in the world of containers with Docker, OpenShift, and Kubernetes 🐳—plus some RabbitMQ magic to keep messages moving smoothly 🐰📡.*
 
-*When I’m not tracking down rogue data, I’m knee-deep in containerization and orchestration with Docker, OpenShift, and Kubernetes 🐳🚀. And let’s not forget RabbitMQ—because sometimes, even data needs to hop around quickly and efficiently. 🐰📡*
-
-*If you’re looking for a dedicated, creative, and innovative developer, feel free to connect with me 🤝. Let’s create amazing experiences together! 🎉*
+*Always up for solving interesting problems, experimenting with new tools, or just building cool things. If you think we could collaborate or chat tech, feel free to reach out! 🚀*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan-singh&show_icons=true&theme=github_dark&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-singh&exclude_repo=srijan-singh.github.io,face-api-internship,crypto-algo,notebook-cse,Hacktoberfest-2021-Data-Structures-and-Algorithms,Face-Detect,face-recognition,make-pull-request,AI,movie,responsive-app,login,portfolio,web,webpage,teachablemachine-community,deep-learning,machine-learning,The-Sparks-Foundation-Internship&layout=compact&theme=github_dark&hide_border=true)
