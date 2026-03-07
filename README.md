@@ -47,7 +47,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two small systems that taught me real-world engineering better than any job ticket](https://dev.to/srijansingh/two-small-systems-that-taught-me-real-world-engineering-better-than-any-job-ticket-4b89)
+- [What building a DIY e-paper reader and my dad&#39;s invoicing app taught me about real engineering](https://dev.to/srijansingh/two-small-systems-that-taught-me-real-world-engineering-better-than-any-job-ticket-4b89)
 - [I Created a Microsoft Edge Extension to Hide Chat on Whatsapp](https://dev.to/srijansingh/i-created-a-microsoft-edge-extension-to-hide-chat-on-whatsapp-431j)
 - [My first contribution to open source!](https://dev.to/srijansingh/my-first-contribution-to-open-source-4e28)
 <!-- BLOG-POST-LIST:END -->
